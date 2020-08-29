@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AI-News-application-react/static/css/main.5dccd743.chunk.css",
+    "main.js": "/AI-News-application-react/static/js/main.600158c2.chunk.js",
+    "main.js.map": "/AI-News-application-react/static/js/main.600158c2.chunk.js.map",
+    "runtime-main.js": "/AI-News-application-react/static/js/runtime-main.24e392a1.js",
+    "runtime-main.js.map": "/AI-News-application-react/static/js/runtime-main.24e392a1.js.map",
+    "static/js/2.e679940b.chunk.js": "/AI-News-application-react/static/js/2.e679940b.chunk.js",
+    "static/js/2.e679940b.chunk.js.map": "/AI-News-application-react/static/js/2.e679940b.chunk.js.map",
+    "index.html": "/AI-News-application-react/index.html",
+    "precache-manifest.a9ea48bd647cca65100df986bc1ac288.js": "/AI-News-application-react/precache-manifest.a9ea48bd647cca65100df986bc1ac288.js",
+    "service-worker.js": "/AI-News-application-react/service-worker.js",
+    "static/css/main.5dccd743.chunk.css.map": "/AI-News-application-react/static/css/main.5dccd743.chunk.css.map",
+    "static/js/2.e679940b.chunk.js.LICENSE.txt": "/AI-News-application-react/static/js/2.e679940b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24e392a1.js",
+    "static/js/2.e679940b.chunk.js",
+    "static/css/main.5dccd743.chunk.css",
+    "static/js/main.600158c2.chunk.js"
+  ]
+}
